@@ -1,8 +1,6 @@
 using System;
 using UnityEngine;
 
-namespace Agents
-{
     [RequireComponent(typeof(Rigidbody2D))]
     public class AgentMovement : MonoBehaviour
     {
@@ -86,4 +84,3 @@ namespace Agents
             Gizmos.DrawWireCube(transform.position + checkOffset, checkSize);
         }
     }
-}

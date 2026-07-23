@@ -1,10 +1,6 @@
 using System.Collections;
-using Agents;
-using CoreLib;
 using UnityEngine;
 
-namespace Player
-{
     public class PlayerController : MonoBehaviour
     {
         [SerializeField] private PlayerInputSO playerInput;
@@ -60,4 +56,3 @@ namespace Player
             _canJump = false;
         }
     }
-}

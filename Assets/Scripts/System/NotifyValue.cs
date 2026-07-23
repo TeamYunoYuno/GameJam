@@ -1,7 +1,5 @@
 using UnityEngine;
 
-namespace System
-{
     public class NotifyValue<T>
     {
         private T _value;
@@ -33,4 +31,3 @@ namespace System
             _value = value;
         }
     }
-}
