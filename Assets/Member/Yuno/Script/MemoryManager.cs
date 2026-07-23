@@ -3,54 +3,52 @@ using UnityEngine;
 
 public class MemoryManager : MonoBehaviour
 {
-    public static MemoryManager Instance { get; private set; } //[cite: 2]
+    public static MemoryManager Instance { get; private set; } //[cite: 5]
 
-    public int maxRAM = 512; //[cite: 2]
-    public int CurrentRAM { get; private set; } //[cite: 2]
+    public int maxRAM = 512; //[cite: 5]
+    public int CurrentRAM { get; private set; } //[cite: 5]
 
-    // 인스펙터에서 전체 프로세스 에셋(SO)을 등록해 시작 시 용량을 계산합니다.
-    [SerializeField] private List<ProcessData> allProcesses;
+    [SerializeField] private List<ProcessData> allProcesses; //[cite: 5]
+    
+    // UI에서 접근할 수 있도록 리스트를 반환하는 프로퍼티 추가
+    public IReadOnlyList<ProcessData> AllProcesses => allProcesses; 
 
     private void Awake()
     {
-        Instance = this; //[cite: 2]
+        Instance = this; //[cite: 5]
     }
 
     private void Start()
     {
-        CurrentRAM = 0;
+        CurrentRAM = 0; //[cite: 5]
         
-        // 등록된 프로세스들을 순회하며 초기 램 점유율을 정확히 계산합니다.
-        foreach (var process in allProcesses)
+        foreach (var process in allProcesses) //[cite: 5]
         {
-            process.InitState();
-            if (process.isDefaultOn)
+            process.InitState(); //[cite: 5]
+            if (process.isDefaultOn) //[cite: 5]
             {
-                CurrentRAM += process.ramCost;
+                CurrentRAM += process.ramCost; //[cite: 5]
             }
         }
     }
 
-    public void RequestToggleProcess(ProcessData process) //[cite: 2]
+    public void RequestToggleProcess(ProcessData process) //[cite: 5]
     {
-        if (process.IsActive) //[cite: 2]
+        if (process.IsActive) //[cite: 5]
         {
-            // 끌 때는 조건 없이 용량을 반환합니다.
-            CurrentRAM -= process.ramCost; //[cite: 2]
-            process.SetState(false); //[cite: 2]
+            CurrentRAM -= process.ramCost; //[cite: 5]
+            process.SetState(false); //[cite: 5]
         }
         else
         {
-            // 켤 때는 반드시 남은 용량이 충분한지 조건문으로 검사하여 한도 초과를 원천 차단합니다[cite: 2].
-            if (CurrentRAM + process.ramCost <= maxRAM) //[cite: 2]
+            if (CurrentRAM + process.ramCost <= maxRAM) //[cite: 5]
             {
-                CurrentRAM += process.ramCost; //[cite: 2]
-                process.SetState(true); //[cite: 2]
+                CurrentRAM += process.ramCost; //[cite: 5]
+                process.SetState(true); //[cite: 5]
             }
             else
             {
-                // 용량 초과 시 프로세스는 켜지지 않고 비동기 경고 연출(Glitch)만 호출합니다[cite: 2].
-                UIManager.Instance.ShowWarningGlitchAsync().Forget(); //[cite: 2]
+                UIManager.Instance.ShowWarningGlitchAsync().Forget(); //[cite: 5]
             }
         }
     }
