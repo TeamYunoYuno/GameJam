@@ -5,7 +5,7 @@ public class MemoryManager : MonoBehaviour
 {
     public static MemoryManager Instance { get; private set; } //[cite: 2]
 
-    [SerializeField] private int maxRAM = 512; //[cite: 2]
+    public int maxRAM = 512; //[cite: 2]
     public int CurrentRAM { get; private set; } //[cite: 2]
 
     // 인스펙터에서 전체 프로세스 에셋(SO)을 등록해 시작 시 용량을 계산합니다.

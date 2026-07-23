@@ -16,7 +16,7 @@ public class UIManager : MonoBehaviour
 
     private void Update()
     {
-        ramText.text = $"RAM: {MemoryManager.Instance.CurrentRAM} / 512 KB"; //[cite: 5]
+        ramText.text = $"RAM: {MemoryManager.Instance.CurrentRAM} / {MemoryManager.Instance.maxRAM} KB"; //[cite: 5]
     }
 
     // 용량이 꽉 찼는데 버튼을 누르면 0.2초간 빨간 화면(warningPanel)이 번쩍입니다[cite: 5].
