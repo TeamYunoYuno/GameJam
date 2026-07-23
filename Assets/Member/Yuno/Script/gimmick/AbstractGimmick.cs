@@ -2,7 +2,7 @@ using UnityEngine;
 
 public abstract class AbstractGimmick : MonoBehaviour
 {
-    [SerializeField] private ProcessData targetProcess;
+    [SerializeField] protected ProcessData targetProcess;
     
     protected virtual void OnEnable()
     {
