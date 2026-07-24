@@ -1,28 +1,58 @@
 using System;
 using UnityEngine;
+using UnityEngine.Tilemaps;
 
 public class Coll : AbstractGimmick
 {
-    private SpriteRenderer _sr;
+    private Tilemap tileMap;
+    private Collider2D tileCollider;
+    private CompositeCollider2D compositeCollider; 
     
     private void Awake()
     {
-        _sr = GetComponent<SpriteRenderer>();
+        tileMap = GetComponent<Tilemap>();
+        
+        // 💡 CompositeCollider2D를 먼저 확인하고, 없으면 일반 Collider2D를 가져옵니다.
+        compositeCollider = GetComponent<CompositeCollider2D>();
+        tileCollider = GetComponent<Collider2D>();
+
+        if (tileMap == null) 
+            Debug.LogError($"[Coll] {gameObject.name}에 Tilemap 컴포넌트가 없습니다!");
+        if (compositeCollider == null && tileCollider == null) 
+            Debug.LogError($"[Coll] {gameObject.name}에 Collider2D 또는 CompositeCollider2D 컴포넌트가 없습니다!");
     }
 
     protected override void HandleStateChanged(bool isProcessOn)
     {
-        if (isProcessOn == true) 
+        if (tileMap == null) return;
+
+        // 💡 1. CompositeCollider2D가 있다면 우선 제어
+        if (compositeCollider != null)
         {
-            gameObject.layer = 6; //Ground
-            _sr.color = new Color(1f, 0.7075472f, 0.7075472f, 1f);
-            Debug.Log("콜라이더 복구 완료!");
+            compositeCollider.isTrigger = !isProcessOn;
+        }
+        // 💡 2. Composite가 없을 경우 일반 TilemapCollider2D 제어
+        else if (tileCollider != null)
+        {
+            tileCollider.isTrigger = !isProcessOn;
+        }
+
+        // 색상 및 상태 처리
+        if (isProcessOn) 
+        {
+            // 켜짐: 불투명한 기본 흰색 (벽 상태)
+            tileMap.color = new Color(1f, 1f, 1f, 1f); 
+            
+            // 콜라이더 복구 로그
+            ConsoleManager.Instance?.LogSystem($"[SYS_UPDATE] {gameObject.name} collision mesh restored.");
         }
         else 
         {
-            gameObject.layer = 7; //Ignore
-            _sr.color = new Color(1f, 1f, 1f, .5f);
-            Debug.Log("콜라이더 기능 삭제!");
+            // 꺼짐: 반투명한 흰색 (통과 가능 상태)
+            tileMap.color = new Color(1f, 1f, 1f, 0.25f); 
+            
+            // 콜라이더 무시 로그
+            ConsoleManager.Instance?.Log($"[SYS_UPDATE] {gameObject.name} collision mesh bypassed.");
         }
     }
 }
