@@ -1,26 +1,37 @@
 using System;
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "NewProcess", menuName = "SpaceJam/ProcessData")] //[cite: 7]
-public class ProcessData : ScriptableObject //[cite: 7]
+[CreateAssetMenu(fileName = "NewProcess", menuName = "SpaceJam/ProcessData")]
+public class ProcessData : ScriptableObject
 {
     [Header("Process Info")]
-    public string processName = "NewProcess.exe"; // UI에 표시될 이름 (추가됨)
-    public int ramCost; //[cite: 7]
-    public bool isDefaultOn; //[cite: 7]
+    public string processName = "NewProcess.exe";
+    public int ramCost;
+    public bool isDefaultOn;
 
-    public bool IsActive { get; private set; } //[cite: 7]
-    public event Action<bool> OnStateChanged; //[cite: 7]
+    [Header("Constraints")]
+    [Tooltip("체크 시 플레이어가 땅(또는 천장)에 닿아있을 때만 토글할 수 있습니다.")]
+    public bool requiresGrounded = false; // 👈 추가된 변수
 
-    public void InitState() //[cite: 7]
+    public bool IsActive { get; private set; }
+
+    public event Action<bool> OnStateChanged;
+    public event Action<bool> OnHoverChanged; 
+    
+    public void InitState()
     {
-        IsActive = isDefaultOn; //[cite: 7]
-        OnStateChanged?.Invoke(IsActive); //[cite: 7]
+        IsActive = isDefaultOn;
+        OnStateChanged?.Invoke(IsActive);
     }
 
-    public void SetState(bool state) //[cite: 7]
+    public void SetState(bool state)
     {
-        IsActive = state; //[cite: 7]
-        OnStateChanged?.Invoke(IsActive); //[cite: 7]
+        IsActive = state;
+        OnStateChanged?.Invoke(IsActive);
+    }
+
+    public void SetHoverState(bool isHovered)
+    {
+        OnHoverChanged?.Invoke(isHovered);
     }
 }

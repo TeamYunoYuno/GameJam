@@ -1,0 +1,6770 @@
+fileFormatVersion: 2
+guid: ebf698fba41c5e6449a4084cda14f625
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 596705935926967164
+    second: clean 1-bit tiles tiles TRANSPARENT_0
+  - first:
+      213: 6418977653139267517
+    second: clean 1-bit tiles tiles TRANSPARENT_1
+  - first:
+      213: -8051301389285401707
+    second: clean 1-bit tiles tiles TRANSPARENT_2
+  - first:
+      213: 5097961044486761205
+    second: clean 1-bit tiles tiles TRANSPARENT_3
+  - first:
+      213: 8854920517303744877
+    second: clean 1-bit tiles tiles TRANSPARENT_4
+  - first:
+      213: -1616167585030415891
+    second: clean 1-bit tiles tiles TRANSPARENT_5
+  - first:
+      213: -5992712567792671839
+    second: clean 1-bit tiles tiles TRANSPARENT_6
+  - first:
+      213: 7791047219760981666
+    second: clean 1-bit tiles tiles TRANSPARENT_7
+  - first:
+      213: 8347512470515400969
+    second: clean 1-bit tiles tiles TRANSPARENT_8
+  - first:
+      213: 5081908653047135602
+    second: clean 1-bit tiles tiles TRANSPARENT_9
+  - first:
+      213: -561456194701846206
+    second: clean 1-bit tiles tiles TRANSPARENT_10
+  - first:
+      213: -8907392455829555013
+    second: clean 1-bit tiles tiles TRANSPARENT_11
+  - first:
+      213: -2292619580642090355
+    second: clean 1-bit tiles tiles TRANSPARENT_12
+  - first:
+      213: 759188779401420412
+    second: clean 1-bit tiles tiles TRANSPARENT_13
+  - first:
+      213: 3022467282150285100
+    second: clean 1-bit tiles tiles TRANSPARENT_14
+  - first:
+      213: 4975835270077122734
+    second: clean 1-bit tiles tiles TRANSPARENT_15
+  - first:
+      213: -7042273767032634390
+    second: clean 1-bit tiles tiles TRANSPARENT_16
+  - first:
+      213: 2541180059753782629
+    second: clean 1-bit tiles tiles TRANSPARENT_17
+  - first:
+      213: 7284724760945964904
+    second: clean 1-bit tiles tiles TRANSPARENT_18
+  - first:
+      213: -2992243626618113918
+    second: clean 1-bit tiles tiles TRANSPARENT_19
+  - first:
+      213: -1964188380520436957
+    second: clean 1-bit tiles tiles TRANSPARENT_20
+  - first:
+      213: 3707727577492604269
+    second: clean 1-bit tiles tiles TRANSPARENT_21
+  - first:
+      213: -3821205667336899502
+    second: clean 1-bit tiles tiles TRANSPARENT_22
+  - first:
+      213: -8624934933929165502
+    second: clean 1-bit tiles tiles TRANSPARENT_23
+  - first:
+      213: 1568524878172860499
+    second: clean 1-bit tiles tiles TRANSPARENT_24
+  - first:
+      213: -4277898699165904919
+    second: clean 1-bit tiles tiles TRANSPARENT_25
+  - first:
+      213: -6634250186504311337
+    second: clean 1-bit tiles tiles TRANSPARENT_26
+  - first:
+      213: -3297314340394522846
+    second: clean 1-bit tiles tiles TRANSPARENT_27
+  - first:
+      213: -3306778788515775514
+    second: clean 1-bit tiles tiles TRANSPARENT_28
+  - first:
+      213: 8612253957744146329
+    second: clean 1-bit tiles tiles TRANSPARENT_29
+  - first:
+      213: 8880338454678324158
+    second: clean 1-bit tiles tiles TRANSPARENT_30
+  - first:
+      213: -35787731370152805
+    second: clean 1-bit tiles tiles TRANSPARENT_31
+  - first:
+      213: 4119567133297782255
+    second: clean 1-bit tiles tiles TRANSPARENT_32
+  - first:
+      213: -6768400930931022936
+    second: clean 1-bit tiles tiles TRANSPARENT_33
+  - first:
+      213: 7086450628082281835
+    second: clean 1-bit tiles tiles TRANSPARENT_34
+  - first:
+      213: 9178975865694657533
+    second: clean 1-bit tiles tiles TRANSPARENT_35
+  - first:
+      213: 8564055633194570760
+    second: clean 1-bit tiles tiles TRANSPARENT_36
+  - first:
+      213: 116819162982064067
+    second: clean 1-bit tiles tiles TRANSPARENT_37
+  - first:
+      213: -7564746720483798510
+    second: clean 1-bit tiles tiles TRANSPARENT_38
+  - first:
+      213: -6097112480229533311
+    second: clean 1-bit tiles tiles TRANSPARENT_39
+  - first:
+      213: -7235200423250850093
+    second: clean 1-bit tiles tiles TRANSPARENT_40
+  - first:
+      213: 2748548010859444228
+    second: clean 1-bit tiles tiles TRANSPARENT_41
+  - first:
+      213: -5164331566888677440
+    second: clean 1-bit tiles tiles TRANSPARENT_42
+  - first:
+      213: 8225528571795269877
+    second: clean 1-bit tiles tiles TRANSPARENT_43
+  - first:
+      213: 7966984287883364066
+    second: clean 1-bit tiles tiles TRANSPARENT_44
+  - first:
+      213: 5836097071468915664
+    second: clean 1-bit tiles tiles TRANSPARENT_45
+  - first:
+      213: 9038437618698572469
+    second: clean 1-bit tiles tiles TRANSPARENT_46
+  - first:
+      213: -5830319003229670812
+    second: clean 1-bit tiles tiles TRANSPARENT_47
+  - first:
+      213: 8719622777701171847
+    second: clean 1-bit tiles tiles TRANSPARENT_48
+  - first:
+      213: -3070362291395373095
+    second: clean 1-bit tiles tiles TRANSPARENT_49
+  - first:
+      213: -6558368139376934640
+    second: clean 1-bit tiles tiles TRANSPARENT_50
+  - first:
+      213: 1634674642134505590
+    second: clean 1-bit tiles tiles TRANSPARENT_51
+  - first:
+      213: 366043688080453260
+    second: clean 1-bit tiles tiles TRANSPARENT_52
+  - first:
+      213: -7501075377136670998
+    second: clean 1-bit tiles tiles TRANSPARENT_53
+  - first:
+      213: 4685979621632607100
+    second: clean 1-bit tiles tiles TRANSPARENT_54
+  - first:
+      213: -3083083010700455236
+    second: clean 1-bit tiles tiles TRANSPARENT_55
+  - first:
+      213: 3881648085956944831
+    second: clean 1-bit tiles tiles TRANSPARENT_56
+  - first:
+      213: 2796876100970836029
+    second: clean 1-bit tiles tiles TRANSPARENT_57
+  - first:
+      213: 69819167684710127
+    second: clean 1-bit tiles tiles TRANSPARENT_58
+  - first:
+      213: 326424224988070114
+    second: clean 1-bit tiles tiles TRANSPARENT_59
+  - first:
+      213: 7954181295009778886
+    second: clean 1-bit tiles tiles TRANSPARENT_60
+  - first:
+      213: -2019562183880271606
+    second: clean 1-bit tiles tiles TRANSPARENT_61
+  - first:
+      213: 5170223819940196674
+    second: clean 1-bit tiles tiles TRANSPARENT_62
+  - first:
+      213: 1764978177785299656
+    second: clean 1-bit tiles tiles TRANSPARENT_63
+  - first:
+      213: -1087397024205243421
+    second: clean 1-bit tiles tiles TRANSPARENT_64
+  - first:
+      213: -5393499099839245308
+    second: clean 1-bit tiles tiles TRANSPARENT_65
+  - first:
+      213: -6639647193391821320
+    second: clean 1-bit tiles tiles TRANSPARENT_66
+  - first:
+      213: -7028969422555073068
+    second: clean 1-bit tiles tiles TRANSPARENT_67
+  - first:
+      213: -5201988736692649666
+    second: clean 1-bit tiles tiles TRANSPARENT_68
+  - first:
+      213: -668884577109640916
+    second: clean 1-bit tiles tiles TRANSPARENT_69
+  - first:
+      213: -4582865539287496630
+    second: clean 1-bit tiles tiles TRANSPARENT_70
+  - first:
+      213: -8186431639006561210
+    second: clean 1-bit tiles tiles TRANSPARENT_71
+  - first:
+      213: 6184299636568372017
+    second: clean 1-bit tiles tiles TRANSPARENT_72
+  - first:
+      213: 8794665241686062062
+    second: clean 1-bit tiles tiles TRANSPARENT_73
+  - first:
+      213: -395394906941995563
+    second: clean 1-bit tiles tiles TRANSPARENT_74
+  - first:
+      213: -815631526072138494
+    second: clean 1-bit tiles tiles TRANSPARENT_75
+  - first:
+      213: 7361886429681665770
+    second: clean 1-bit tiles tiles TRANSPARENT_76
+  - first:
+      213: 4126045123287380395
+    second: clean 1-bit tiles tiles TRANSPARENT_77
+  - first:
+      213: 4815243256437588830
+    second: clean 1-bit tiles tiles TRANSPARENT_78
+  - first:
+      213: 6853334297064626802
+    second: clean 1-bit tiles tiles TRANSPARENT_79
+  - first:
+      213: -4843645858462091482
+    second: clean 1-bit tiles tiles TRANSPARENT_80
+  - first:
+      213: -5995440375808852681
+    second: clean 1-bit tiles tiles TRANSPARENT_81
+  - first:
+      213: -2009150077800608564
+    second: clean 1-bit tiles tiles TRANSPARENT_82
+  - first:
+      213: 4569089344377753121
+    second: clean 1-bit tiles tiles TRANSPARENT_83
+  - first:
+      213: -234954356454227593
+    second: clean 1-bit tiles tiles TRANSPARENT_84
+  - first:
+      213: 6702376331214845345
+    second: clean 1-bit tiles tiles TRANSPARENT_85
+  - first:
+      213: 9123060514672328088
+    second: clean 1-bit tiles tiles TRANSPARENT_86
+  - first:
+      213: 1507319451040160366
+    second: clean 1-bit tiles tiles TRANSPARENT_87
+  - first:
+      213: -8915133411331364855
+    second: clean 1-bit tiles tiles TRANSPARENT_88
+  - first:
+      213: 9160896747121179526
+    second: clean 1-bit tiles tiles TRANSPARENT_89
+  - first:
+      213: -5943013452789225383
+    second: clean 1-bit tiles tiles TRANSPARENT_90
+  - first:
+      213: 9123446387037403562
+    second: clean 1-bit tiles tiles TRANSPARENT_91
+  - first:
+      213: 8517456614048167158
+    second: clean 1-bit tiles tiles TRANSPARENT_92
+  - first:
+      213: 5120475766746156691
+    second: clean 1-bit tiles tiles TRANSPARENT_93
+  - first:
+      213: -1252869490721608455
+    second: clean 1-bit tiles tiles TRANSPARENT_94
+  - first:
+      213: 7723983792820691656
+    second: clean 1-bit tiles tiles TRANSPARENT_95
+  - first:
+      213: 6632397357227042141
+    second: clean 1-bit tiles tiles TRANSPARENT_96
+  - first:
+      213: -3743278043155511432
+    second: clean 1-bit tiles tiles TRANSPARENT_97
+  - first:
+      213: -1238193537307822657
+    second: clean 1-bit tiles tiles TRANSPARENT_98
+  - first:
+      213: 2224629951974551019
+    second: clean 1-bit tiles tiles TRANSPARENT_99
+  - first:
+      213: -8805816480671611602
+    second: clean 1-bit tiles tiles TRANSPARENT_100
+  - first:
+      213: -2252052250408430593
+    second: clean 1-bit tiles tiles TRANSPARENT_101
+  - first:
+      213: -1972445260375001534
+    second: clean 1-bit tiles tiles TRANSPARENT_102
+  - first:
+      213: 3142961036568881530
+    second: clean 1-bit tiles tiles TRANSPARENT_103
+  - first:
+      213: -8611900427769290035
+    second: clean 1-bit tiles tiles TRANSPARENT_104
+  - first:
+      213: -1052853412624073958
+    second: clean 1-bit tiles tiles TRANSPARENT_105
+  - first:
+      213: 2721729802863279579
+    second: clean 1-bit tiles tiles TRANSPARENT_106
+  - first:
+      213: 1549227204290976627
+    second: clean 1-bit tiles tiles TRANSPARENT_107
+  - first:
+      213: -3441789638580193630
+    second: clean 1-bit tiles tiles TRANSPARENT_108
+  - first:
+      213: 5734124762646996351
+    second: clean 1-bit tiles tiles TRANSPARENT_109
+  - first:
+      213: -6453682639526614950
+    second: clean 1-bit tiles tiles TRANSPARENT_110
+  - first:
+      213: 8379299890605906005
+    second: clean 1-bit tiles tiles TRANSPARENT_111
+  - first:
+      213: -8199342933068257084
+    second: clean 1-bit tiles tiles TRANSPARENT_112
+  - first:
+      213: 178006528402756960
+    second: clean 1-bit tiles tiles TRANSPARENT_113
+  - first:
+      213: 7782417448870513570
+    second: clean 1-bit tiles tiles TRANSPARENT_114
+  - first:
+      213: -4278973539476389853
+    second: clean 1-bit tiles tiles TRANSPARENT_115
+  - first:
+      213: -6459328908286128199
+    second: clean 1-bit tiles tiles TRANSPARENT_116
+  - first:
+      213: -9017637990674228267
+    second: clean 1-bit tiles tiles TRANSPARENT_117
+  - first:
+      213: -191884495376556626
+    second: clean 1-bit tiles tiles TRANSPARENT_118
+  - first:
+      213: 8417547396252910150
+    second: clean 1-bit tiles tiles TRANSPARENT_119
+  - first:
+      213: 1816617310300954430
+    second: clean 1-bit tiles tiles TRANSPARENT_120
+  - first:
+      213: 1677742056839625874
+    second: clean 1-bit tiles tiles TRANSPARENT_121
+  - first:
+      213: 6901314207720342621
+    second: clean 1-bit tiles tiles TRANSPARENT_122
+  - first:
+      213: -6181325753804348318
+    second: clean 1-bit tiles tiles TRANSPARENT_123
+  - first:
+      213: -5678333719029234181
+    second: clean 1-bit tiles tiles TRANSPARENT_124
+  - first:
+      213: -1115479687658316239
+    second: clean 1-bit tiles tiles TRANSPARENT_125
+  - first:
+      213: -4326993837086892416
+    second: clean 1-bit tiles tiles TRANSPARENT_126
+  - first:
+      213: -957958449293424339
+    second: clean 1-bit tiles tiles TRANSPARENT_127
+  - first:
+      213: -6998949605863205948
+    second: clean 1-bit tiles tiles TRANSPARENT_128
+  - first:
+      213: 8521016250943016548
+    second: clean 1-bit tiles tiles TRANSPARENT_129
+  - first:
+      213: -2239983909513489075
+    second: clean 1-bit tiles tiles TRANSPARENT_130
+  - first:
+      213: -1352925222283666647
+    second: clean 1-bit tiles tiles TRANSPARENT_131
+  - first:
+      213: 7590104336464809882
+    second: clean 1-bit tiles tiles TRANSPARENT_132
+  - first:
+      213: 5128650334385483173
+    second: clean 1-bit tiles tiles TRANSPARENT_133
+  - first:
+      213: 7122262000988881559
+    second: clean 1-bit tiles tiles TRANSPARENT_134
+  - first:
+      213: 7172303362560315157
+    second: clean 1-bit tiles tiles TRANSPARENT_135
+  - first:
+      213: 7931213596441329376
+    second: clean 1-bit tiles tiles TRANSPARENT_136
+  - first:
+      213: 759248039697224589
+    second: clean 1-bit tiles tiles TRANSPARENT_137
+  - first:
+      213: 3464330768243236944
+    second: clean 1-bit tiles tiles TRANSPARENT_138
+  - first:
+      213: 5962060317575045108
+    second: clean 1-bit tiles tiles TRANSPARENT_139
+  - first:
+      213: -9041068710686472731
+    second: clean 1-bit tiles tiles TRANSPARENT_140
+  - first:
+      213: -5205642230583392556
+    second: clean 1-bit tiles tiles TRANSPARENT_141
+  - first:
+      213: 4208943463857576269
+    second: clean 1-bit tiles tiles TRANSPARENT_142
+  - first:
+      213: 4356637471441910560
+    second: clean 1-bit tiles tiles TRANSPARENT_143
+  - first:
+      213: 1537619977473303597
+    second: clean 1-bit tiles tiles TRANSPARENT_144
+  - first:
+      213: 254650487147235442
+    second: clean 1-bit tiles tiles TRANSPARENT_145
+  - first:
+      213: 7588572888463931833
+    second: clean 1-bit tiles tiles TRANSPARENT_146
+  - first:
+      213: 3486494772148935088
+    second: clean 1-bit tiles tiles TRANSPARENT_147
+  - first:
+      213: -7847500911958335217
+    second: clean 1-bit tiles tiles TRANSPARENT_148
+  - first:
+      213: -1410854890588851261
+    second: clean 1-bit tiles tiles TRANSPARENT_149
+  - first:
+      213: -493104580791369552
+    second: clean 1-bit tiles tiles TRANSPARENT_150
+  - first:
+      213: -7913930054194136030
+    second: clean 1-bit tiles tiles TRANSPARENT_151
+  - first:
+      213: 4213465749875920760
+    second: clean 1-bit tiles tiles TRANSPARENT_152
+  - first:
+      213: 2516236886233916952
+    second: clean 1-bit tiles tiles TRANSPARENT_153
+  - first:
+      213: 8110112231872912373
+    second: clean 1-bit tiles tiles TRANSPARENT_154
+  - first:
+      213: 2514049481631060211
+    second: clean 1-bit tiles tiles TRANSPARENT_155
+  - first:
+      213: 3180554165872658837
+    second: clean 1-bit tiles tiles TRANSPARENT_156
+  - first:
+      213: -6638012046596428437
+    second: clean 1-bit tiles tiles TRANSPARENT_157
+  - first:
+      213: -5388077391036499961
+    second: clean 1-bit tiles tiles TRANSPARENT_158
+  - first:
+      213: -6830463275581248984
+    second: clean 1-bit tiles tiles TRANSPARENT_159
+  - first:
+      213: -5256206840154079511
+    second: clean 1-bit tiles tiles TRANSPARENT_160
+  - first:
+      213: 8246680034374926942
+    second: clean 1-bit tiles tiles TRANSPARENT_161
+  - first:
+      213: -1670112232144202229
+    second: clean 1-bit tiles tiles TRANSPARENT_162
+  - first:
+      213: -5401423633259980612
+    second: clean 1-bit tiles tiles TRANSPARENT_163
+  - first:
+      213: 1222299035514989953
+    second: clean 1-bit tiles tiles TRANSPARENT_164
+  - first:
+      213: 8209668231605058250
+    second: clean 1-bit tiles tiles TRANSPARENT_165
+  - first:
+      213: 5355493907691240687
+    second: clean 1-bit tiles tiles TRANSPARENT_166
+  - first:
+      213: -310759537589669559
+    second: clean 1-bit tiles tiles TRANSPARENT_167
+  - first:
+      213: -8306906491484549336
+    second: clean 1-bit tiles tiles TRANSPARENT_168
+  - first:
+      213: 2251355712070344588
+    second: clean 1-bit tiles tiles TRANSPARENT_169
+  - first:
+      213: -4911572583425545378
+    second: clean 1-bit tiles tiles TRANSPARENT_170
+  - first:
+      213: -6444335037796635401
+    second: clean 1-bit tiles tiles TRANSPARENT_171
+  - first:
+      213: -1918425272608959270
+    second: clean 1-bit tiles tiles TRANSPARENT_172
+  - first:
+      213: 68736430799328797
+    second: clean 1-bit tiles tiles TRANSPARENT_173
+  - first:
+      213: -3921287666369857320
+    second: clean 1-bit tiles tiles TRANSPARENT_174
+  - first:
+      213: 1917087641253076587
+    second: clean 1-bit tiles tiles TRANSPARENT_175
+  - first:
+      213: 7934417505601987172
+    second: clean 1-bit tiles tiles TRANSPARENT_176
+  - first:
+      213: -5586485353656572084
+    second: clean 1-bit tiles tiles TRANSPARENT_177
+  - first:
+      213: 3729626165060493448
+    second: clean 1-bit tiles tiles TRANSPARENT_178
+  - first:
+      213: -4168108118724771048
+    second: clean 1-bit tiles tiles TRANSPARENT_179
+  - first:
+      213: 4256954048273626020
+    second: clean 1-bit tiles tiles TRANSPARENT_180
+  - first:
+      213: 2105238973290047832
+    second: clean 1-bit tiles tiles TRANSPARENT_181
+  - first:
+      213: -8783989159445929779
+    second: clean 1-bit tiles tiles TRANSPARENT_182
+  - first:
+      213: -7013527511655582837
+    second: clean 1-bit tiles tiles TRANSPARENT_183
+  - first:
+      213: 461315405993156241
+    second: clean 1-bit tiles tiles TRANSPARENT_184
+  - first:
+      213: 2308940140088514139
+    second: clean 1-bit tiles tiles TRANSPARENT_185
+  - first:
+      213: -4664904309405767507
+    second: clean 1-bit tiles tiles TRANSPARENT_186
+  - first:
+      213: 858607582653969131
+    second: clean 1-bit tiles tiles TRANSPARENT_187
+  - first:
+      213: -7625574825675262595
+    second: clean 1-bit tiles tiles TRANSPARENT_188
+  - first:
+      213: 6439405351026329296
+    second: clean 1-bit tiles tiles TRANSPARENT_189
+  - first:
+      213: 6751621301357767817
+    second: clean 1-bit tiles tiles TRANSPARENT_190
+  - first:
+      213: -1015445490835169835
+    second: clean 1-bit tiles tiles TRANSPARENT_191
+  - first:
+      213: -8256697032908248958
+    second: clean 1-bit tiles tiles TRANSPARENT_192
+  - first:
+      213: 8462647407755355302
+    second: clean 1-bit tiles tiles TRANSPARENT_193
+  - first:
+      213: 2273286670199392415
+    second: clean 1-bit tiles tiles TRANSPARENT_194
+  - first:
+      213: -206963910711088241
+    second: clean 1-bit tiles tiles TRANSPARENT_195
+  - first:
+      213: -5621207175570809016
+    second: clean 1-bit tiles tiles TRANSPARENT_196
+  - first:
+      213: -5659944624793918607
+    second: clean 1-bit tiles tiles TRANSPARENT_197
+  - first:
+      213: -2417893081128007362
+    second: clean 1-bit tiles tiles TRANSPARENT_198
+  - first:
+      213: -7147173821130322087
+    second: clean 1-bit tiles tiles TRANSPARENT_199
+  - first:
+      213: -7085635917122268007
+    second: clean 1-bit tiles tiles TRANSPARENT_200
+  - first:
+      213: 5017898415712124017
+    second: clean 1-bit tiles tiles TRANSPARENT_201
+  - first:
+      213: -2903558781951125929
+    second: clean 1-bit tiles tiles TRANSPARENT_202
+  - first:
+      213: 1657961799026891993
+    second: clean 1-bit tiles tiles TRANSPARENT_203
+  - first:
+      213: -1522344392011702639
+    second: clean 1-bit tiles tiles TRANSPARENT_204
+  - first:
+      213: 8071806654627363303
+    second: clean 1-bit tiles tiles TRANSPARENT_205
+  - first:
+      213: 1157745892789603207
+    second: clean 1-bit tiles tiles TRANSPARENT_206
+  - first:
+      213: 930477306039159038
+    second: clean 1-bit tiles tiles TRANSPARENT_207
+  - first:
+      213: -2547444311648469206
+    second: clean 1-bit tiles tiles TRANSPARENT_208
+  - first:
+      213: 6305413762347731445
+    second: clean 1-bit tiles tiles TRANSPARENT_209
+  - first:
+      213: 5298699641602656806
+    second: clean 1-bit tiles tiles TRANSPARENT_210
+  - first:
+      213: 6018160614847216472
+    second: clean 1-bit tiles tiles TRANSPARENT_211
+  - first:
+      213: 3907638049206943683
+    second: clean 1-bit tiles tiles TRANSPARENT_212
+  - first:
+      213: 840344463728398044
+    second: clean 1-bit tiles tiles TRANSPARENT_213
+  - first:
+      213: -4949323663264723941
+    second: clean 1-bit tiles tiles TRANSPARENT_214
+  - first:
+      213: 2897078185070667555
+    second: clean 1-bit tiles tiles TRANSPARENT_215
+  - first:
+      213: -1076117271161814418
+    second: clean 1-bit tiles tiles TRANSPARENT_216
+  - first:
+      213: -2768533094387544702
+    second: clean 1-bit tiles tiles TRANSPARENT_217
+  - first:
+      213: -222729666856061536
+    second: clean 1-bit tiles tiles TRANSPARENT_218
+  - first:
+      213: -4131037260129715683
+    second: clean 1-bit tiles tiles TRANSPARENT_219
+  - first:
+      213: -1580723570183065794
+    second: clean 1-bit tiles tiles TRANSPARENT_220
+  - first:
+      213: 3347781959865026587
+    second: clean 1-bit tiles tiles TRANSPARENT_221
+  - first:
+      213: -5880905364461395758
+    second: clean 1-bit tiles tiles TRANSPARENT_222
+  - first:
+      213: 5189551077821355916
+    second: clean 1-bit tiles tiles TRANSPARENT_223
+  - first:
+      213: -8123116355256723641
+    second: clean 1-bit tiles tiles TRANSPARENT_224
+  - first:
+      213: -6955742505063907461
+    second: clean 1-bit tiles tiles TRANSPARENT_225
+  - first:
+      213: 3311227041960079561
+    second: clean 1-bit tiles tiles TRANSPARENT_226
+  - first:
+      213: 2258274631245498408
+    second: clean 1-bit tiles tiles TRANSPARENT_227
+  - first:
+      213: -5165864285687373874
+    second: clean 1-bit tiles tiles TRANSPARENT_228
+  - first:
+      213: 3937683106460165435
+    second: clean 1-bit tiles tiles TRANSPARENT_229
+  - first:
+      213: 3643473694730170032
+    second: clean 1-bit tiles tiles TRANSPARENT_230
+  - first:
+      213: 8917407466737837723
+    second: clean 1-bit tiles tiles TRANSPARENT_231
+  - first:
+      213: -7651327808728317561
+    second: clean 1-bit tiles tiles TRANSPARENT_232
+  - first:
+      213: -5575459274482387590
+    second: clean 1-bit tiles tiles TRANSPARENT_233
+  - first:
+      213: -7809577117868327168
+    second: clean 1-bit tiles tiles TRANSPARENT_234
+  - first:
+      213: 1397024760501502656
+    second: clean 1-bit tiles tiles TRANSPARENT_235
+  - first:
+      213: 6389828795254461126
+    second: clean 1-bit tiles tiles TRANSPARENT_236
+  - first:
+      213: -5611683355920403533
+    second: clean 1-bit tiles tiles TRANSPARENT_237
+  - first:
+      213: 776815536736676633
+    second: clean 1-bit tiles tiles TRANSPARENT_238
+  - first:
+      213: 2209666793578726848
+    second: clean 1-bit tiles tiles TRANSPARENT_239
+  - first:
+      213: 2795131363484282873
+    second: clean 1-bit tiles tiles TRANSPARENT_240
+  - first:
+      213: -5917137036640640795
+    second: clean 1-bit tiles tiles TRANSPARENT_241
+  - first:
+      213: 2615624638622642518
+    second: clean 1-bit tiles tiles TRANSPARENT_242
+  - first:
+      213: -4999925722322183439
+    second: clean 1-bit tiles tiles TRANSPARENT_243
+  - first:
+      213: -3147053008848075423
+    second: clean 1-bit tiles tiles TRANSPARENT_244
+  - first:
+      213: 4784925522762372256
+    second: clean 1-bit tiles tiles TRANSPARENT_245
+  - first:
+      213: 4487884763149645462
+    second: clean 1-bit tiles tiles TRANSPARENT_246
+  - first:
+      213: -8862967600692195667
+    second: clean 1-bit tiles tiles TRANSPARENT_247
+  - first:
+      213: -6181859337768413006
+    second: clean 1-bit tiles tiles TRANSPARENT_248
+  - first:
+      213: -7591758324439884974
+    second: clean 1-bit tiles tiles TRANSPARENT_249
+  - first:
+      213: -6387881617029779532
+    second: clean 1-bit tiles tiles TRANSPARENT_250
+  - first:
+      213: 1848054593038195852
+    second: clean 1-bit tiles tiles TRANSPARENT_251
+  - first:
+      213: -57823451482938019
+    second: clean 1-bit tiles tiles TRANSPARENT_252
+  - first:
+      213: -3938699874451489345
+    second: clean 1-bit tiles tiles TRANSPARENT_253
+  - first:
+      213: -6735358544364696966
+    second: clean 1-bit tiles tiles TRANSPARENT_254
+  - first:
+      213: 7962120011020245665
+    second: clean 1-bit tiles tiles TRANSPARENT_255
+  - first:
+      213: -2931900775267276141
+    second: clean 1-bit tiles tiles TRANSPARENT_256
+  - first:
+      213: -4995802791613136107
+    second: clean 1-bit tiles tiles TRANSPARENT_257
+  - first:
+      213: 8901145245978034951
+    second: clean 1-bit tiles tiles TRANSPARENT_258
+  - first:
+      213: 5544349516270146594
+    second: clean 1-bit tiles tiles TRANSPARENT_259
+  - first:
+      213: 7875542107701965082
+    second: clean 1-bit tiles tiles TRANSPARENT_260
+  - first:
+      213: 5698184974854027970
+    second: clean 1-bit tiles tiles TRANSPARENT_261
+  - first:
+      213: 713555393540452376
+    second: clean 1-bit tiles tiles TRANSPARENT_262
+  - first:
+      213: 6196070292114428006
+    second: clean 1-bit tiles tiles TRANSPARENT_263
+  - first:
+      213: -3326682106553500630
+    second: clean 1-bit tiles tiles TRANSPARENT_264
+  - first:
+      213: -973638435095395912
+    second: clean 1-bit tiles tiles TRANSPARENT_265
+  - first:
+      213: 7669703315895575257
+    second: clean 1-bit tiles tiles TRANSPARENT_266
+  - first:
+      213: -4984993012344602945
+    second: clean 1-bit tiles tiles TRANSPARENT_267
+  - first:
+      213: -279221549964276823
+    second: clean 1-bit tiles tiles TRANSPARENT_268
+  - first:
+      213: 5506657037336832734
+    second: clean 1-bit tiles tiles TRANSPARENT_269
+  - first:
+      213: -8323659516292292598
+    second: clean 1-bit tiles tiles TRANSPARENT_270
+  - first:
+      213: -7402718561854841249
+    second: clean 1-bit tiles tiles TRANSPARENT_271
+  - first:
+      213: 6022918440841845701
+    second: clean 1-bit tiles tiles TRANSPARENT_272
+  - first:
+      213: 8718806133034171069
+    second: clean 1-bit tiles tiles TRANSPARENT_273
+  - first:
+      213: -7245498670368376511
+    second: clean 1-bit tiles tiles TRANSPARENT_274
+  - first:
+      213: -5730606261469481769
+    second: clean 1-bit tiles tiles TRANSPARENT_275
+  - first:
+      213: -2528719218631464401
+    second: clean 1-bit tiles tiles TRANSPARENT_276
+  - first:
+      213: -9107174279110710269
+    second: clean 1-bit tiles tiles TRANSPARENT_277
+  - first:
+      213: -2429600166853202468
+    second: clean 1-bit tiles tiles TRANSPARENT_278
+  - first:
+      213: 2735401745930501265
+    second: clean 1-bit tiles tiles TRANSPARENT_279
+  - first:
+      213: -9131498383806299233
+    second: clean 1-bit tiles tiles TRANSPARENT_280
+  - first:
+      213: 4693345716422496408
+    second: clean 1-bit tiles tiles TRANSPARENT_281
+  - first:
+      213: 825252756253671455
+    second: clean 1-bit tiles tiles TRANSPARENT_282
+  - first:
+      213: 9106004191862842716
+    second: clean 1-bit tiles tiles TRANSPARENT_283
+  - first:
+      213: 5740165940037206223
+    second: clean 1-bit tiles tiles TRANSPARENT_284
+  - first:
+      213: -7516818163150503133
+    second: clean 1-bit tiles tiles TRANSPARENT_285
+  - first:
+      213: -7220643341908781738
+    second: clean 1-bit tiles tiles TRANSPARENT_286
+  - first:
+      213: -7386539817987968747
+    second: clean 1-bit tiles tiles TRANSPARENT_287
+  - first:
+      213: -6910997833040477841
+    second: clean 1-bit tiles tiles TRANSPARENT_288
+  - first:
+      213: 824777172304268184
+    second: clean 1-bit tiles tiles TRANSPARENT_289
+  - first:
+      213: 4217570579985253904
+    second: clean 1-bit tiles tiles TRANSPARENT_290
+  - first:
+      213: 3464635217135911181
+    second: clean 1-bit tiles tiles TRANSPARENT_291
+  - first:
+      213: 8903099134387604344
+    second: clean 1-bit tiles tiles TRANSPARENT_292
+  - first:
+      213: 2080747007127298319
+    second: clean 1-bit tiles tiles TRANSPARENT_293
+  - first:
+      213: 6889104133116139377
+    second: clean 1-bit tiles tiles TRANSPARENT_294
+  - first:
+      213: -321397669250908063
+    second: clean 1-bit tiles tiles TRANSPARENT_295
+  - first:
+      213: -1634751180777327172
+    second: clean 1-bit tiles tiles TRANSPARENT_296
+  - first:
+      213: -3325290377976893672
+    second: clean 1-bit tiles tiles TRANSPARENT_297
+  - first:
+      213: 263200019286238515
+    second: clean 1-bit tiles tiles TRANSPARENT_298
+  - first:
+      213: -5269254710205766251
+    second: clean 1-bit tiles tiles TRANSPARENT_299
+  - first:
+      213: -7552188356663482688
+    second: clean 1-bit tiles tiles TRANSPARENT_300
+  - first:
+      213: 3585166376397961477
+    second: clean 1-bit tiles tiles TRANSPARENT_301
+  - first:
+      213: -3037733824142059253
+    second: clean 1-bit tiles tiles TRANSPARENT_302
+  - first:
+      213: -3437758534581488923
+    second: clean 1-bit tiles tiles TRANSPARENT_303
+  - first:
+      213: -1300856423473371006
+    second: clean 1-bit tiles tiles TRANSPARENT_304
+  - first:
+      213: -5925846325258586815
+    second: clean 1-bit tiles tiles TRANSPARENT_305
+  - first:
+      213: -5841062020273775538
+    second: clean 1-bit tiles tiles TRANSPARENT_306
+  - first:
+      213: -5780618656691387354
+    second: clean 1-bit tiles tiles TRANSPARENT_307
+  - first:
+      213: 2902522923691964935
+    second: clean 1-bit tiles tiles TRANSPARENT_308
+  - first:
+      213: -5442951891711512999
+    second: clean 1-bit tiles tiles TRANSPARENT_309
+  - first:
+      213: 6697952184319129744
+    second: clean 1-bit tiles tiles TRANSPARENT_310
+  - first:
+      213: -5447658912633300187
+    second: clean 1-bit tiles tiles TRANSPARENT_311
+  - first:
+      213: -6468252722271858902
+    second: clean 1-bit tiles tiles TRANSPARENT_312
+  - first:
+      213: -6742452412417915902
+    second: clean 1-bit tiles tiles TRANSPARENT_313
+  - first:
+      213: 5938914112513871852
+    second: clean 1-bit tiles tiles TRANSPARENT_314
+  - first:
+      213: 4937138714992891679
+    second: clean 1-bit tiles tiles TRANSPARENT_315
+  - first:
+      213: 9156731664292530933
+    second: clean 1-bit tiles tiles TRANSPARENT_316
+  - first:
+      213: 2531238319582624859
+    second: clean 1-bit tiles tiles TRANSPARENT_317
+  - first:
+      213: 7581211409746335713
+    second: clean 1-bit tiles tiles TRANSPARENT_318
+  - first:
+      213: 4804710685364866463
+    second: clean 1-bit tiles tiles TRANSPARENT_319
+  - first:
+      213: 5986081477379541354
+    second: clean 1-bit tiles tiles TRANSPARENT_320
+  - first:
+      213: 6207078949970698150
+    second: clean 1-bit tiles tiles TRANSPARENT_321
+  - first:
+      213: 7980165133351653332
+    second: clean 1-bit tiles tiles TRANSPARENT_322
+  - first:
+      213: -8605764205221398910
+    second: clean 1-bit tiles tiles TRANSPARENT_323
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_0
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 978
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3b4223ece74800800000000000000
+      internalID: 596705935926967164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1872
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf59849a2ac41950800000000000000
+      internalID: 6418977653139267517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1872
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bd8084b08044090800000000000000
+      internalID: -8051301389285401707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1872
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faa96f4f889fb640800000000000000
+      internalID: 5097961044486761205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1872
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69353c8b4ff2ea70800000000000000
+      internalID: 8854920517303744877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_5
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1872
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9d2cce4283299e0800000000000000
+      internalID: -1616167585030415891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1872
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3e2bb9bab95dca0800000000000000
+      internalID: -5992712567792671839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1824
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6e52aea2c5f1c60800000000000000
+      internalID: 7791047219760981666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1824
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 901c63b6d5258d370800000000000000
+      internalID: 8347512470515400969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1824
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dbbddaef0968640800000000000000
+      internalID: 5081908653047135602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1824
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2499addc09e4538f0800000000000000
+      internalID: -561456194701846206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1824
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8f84b31c5926480800000000000000
+      internalID: -8907392455829555013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1824
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8229b263aafe20e0800000000000000
+      internalID: -2292619580642090355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_13
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1824
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e1fa92c2e298a00800000000000000
+      internalID: 759188779401420412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1824
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fdec9baf5f1f920800000000000000
+      internalID: 3022467282150285100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_15
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1824
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea88ec5a0d7bd0540800000000000000
+      internalID: 4975835270077122734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_16
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1824
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3c7f80251d44e90800000000000000
+      internalID: -7042273767032634390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1824
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d1ee3fcc5144320800000000000000
+      internalID: 2541180059753782629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8673daee29a881560800000000000000
+      internalID: 7284724760945964904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2803002764a6976d0800000000000000
+      internalID: -2992243626618113918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b212b131dcdb4e0800000000000000
+      internalID: -1964188380520436957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65cd5c569e747330800000000000000
+      internalID: 3707727577492604269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254bca0f0b958fac0800000000000000
+      internalID: -3821205667336899502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d7b4cdf531e4880800000000000000
+      internalID: -8624934933929165502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3503bd8f01584c510800000000000000
+      internalID: 1568524878172860499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef4c136cc9d1a4c0800000000000000
+      internalID: -4277898699165904919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd675aea986ee3a0800000000000000
+      internalID: -6634250186504311337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227abfbc3169d32d0800000000000000
+      internalID: -3297314340394522846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_28
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb78bf3636fb12d0800000000000000
+      internalID: -3306778788515775514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997baca485fd48770800000000000000
+      internalID: 8612253957744146329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3c75446cc4d3b70800000000000000
+      internalID: 8880338454678324158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c6d587f3bd08ff0800000000000000
+      internalID: -35787731370152805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feda6983b74ab2930800000000000000
+      internalID: 4119567133297782255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3ee6eb63fc112a0800000000000000
+      internalID: -6768400930931022936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d2035fc41285260800000000000000
+      internalID: 7086450628082281835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb1d94eae5426f70800000000000000
+      internalID: 9178975865694657533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_36
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804de3d5933a9d670800000000000000
+      internalID: 8564055633194570760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_37
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf1188e8660f9100800000000000000
+      internalID: 116819162982064067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_38
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21213cdffee940790800000000000000
+      internalID: -7564746720483798510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_39
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189515cc084b26ba0800000000000000
+      internalID: -6097112480229533311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1632
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de806d7c87679b90800000000000000
+      internalID: -7235200423250850093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1632
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408326b7addc42620800000000000000
+      internalID: 2748548010859444228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1632
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf834d3dcb9458b0800000000000000
+      internalID: -5164331566888677440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1632
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8eea3c7a2f62270800000000000000
+      internalID: 8225528571795269877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6086abff9609e60800000000000000
+      internalID: 7966984287883364066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db2a939d5bfdf050800000000000000
+      internalID: 5836097071468915664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b25e03602bfe6d70800000000000000
+      internalID: 9038437618698572469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4623945c1cb861fa0800000000000000
+      internalID: -5830319003229670812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_48
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7828840c7b2520970800000000000000
+      internalID: 8719622777701171847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_49
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7df9173c1e365d0800000000000000
+      internalID: -3070362291395373095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011c23acceefbf4a0800000000000000
+      internalID: -6558368139376934640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67814c71de78fa610800000000000000
+      internalID: 1634674642134505590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e2f408bc2741500800000000000000
+      internalID: 366043688080453260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6e658dfa3d6e790800000000000000
+      internalID: -7501075377136670998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73812473a1f70140800000000000000
+      internalID: 4685979621632607100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_55
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2582e2650b635d0800000000000000
+      internalID: -3083083010700455236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_56
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3e98a4e526ed530800000000000000
+      internalID: 3881648085956944831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_57
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30752fceff70d620800000000000000
+      internalID: 2796876100970836029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_58
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee4c50c92c08f000800000000000000
+      internalID: 69819167684710127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_59
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e00f786a11b78400800000000000000
+      internalID: 326424224988070114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1440
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc4d18aebde26e60800000000000000
+      internalID: 7954181295009778886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1440
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a091104d4e219f3e0800000000000000
+      internalID: -2019562183880271606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1440
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2417cc4db2350c740800000000000000
+      internalID: 5170223819940196674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_63
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1440
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2853b2d467e7810800000000000000
+      internalID: 1764978177785299656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_64
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1440
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebfd62fa2ac8e0f0800000000000000
+      internalID: -1087397024205243421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_65
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1440
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40451b905217625b0800000000000000
+      internalID: -5393499099839245308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1440
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd06f35e0c3bd3a0800000000000000
+      internalID: -6639647193391821320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5b58f1d85147e90800000000000000
+      internalID: -7028969422555073068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e310ad72ec2dec7b0800000000000000
+      internalID: -5201988736692649666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2974a16505a7b6f0800000000000000
+      internalID: -668884577109640916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_70
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48c365b2146660c0800000000000000
+      internalID: -4582865539287496630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_71
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cbef24cc3f36e80800000000000000
+      internalID: -8186431639006561210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_72
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1333c3ee0cb03d550800000000000000
+      internalID: 6184299636568372017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_73
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee33c21f07dec0a70800000000000000
+      internalID: 8794665241686062062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d549b15d66438af0800000000000000
+      internalID: -395394906941995563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2054cdcc27b4ea4f0800000000000000
+      internalID: -815631526072138494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6c1fde3bcaa2660800000000000000
+      internalID: 7361886429681665770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1f6cccd28a24930800000000000000
+      internalID: 4126045123287380395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53ce0fba3e23d240800000000000000
+      internalID: 4815243256437588830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ad98f8b3feb1f50800000000000000
+      internalID: 6853334297064626802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_80
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627339421c9e7ccb0800000000000000
+      internalID: -4843645858462091482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_81
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73df0ef4ebaebcca0800000000000000
+      internalID: -5995440375808852681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_82
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc0f3036a01e14e0800000000000000
+      internalID: -2009150077800608564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_83
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e88a6fc8aa86f30800000000000000
+      internalID: 4569089344377753121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7718d15f1464dbcf0800000000000000
+      internalID: -234954356454227593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5fb0533cf930d50800000000000000
+      internalID: 6702376331214845345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_86
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dbf69b33f9b9e70800000000000000
+      internalID: 9123060514672328088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_87
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a194afd031be410800000000000000
+      internalID: 1507319451040160366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_88
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908a0649565174480800000000000000
+      internalID: -8915133411331364855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_89
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b70341e0b022f70800000000000000
+      internalID: 9160896747121179526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_90
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958612b80cc268da0800000000000000
+      internalID: -5943013452789225383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_91
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa97fa2a62efc9e70800000000000000
+      internalID: 9123446387037403562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_92
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4742eb9a5143670800000000000000
+      internalID: 8517456614048167158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e86e594959f0740800000000000000
+      internalID: 5120475766746156691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_94
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc2d9f06d9ec9ee0800000000000000
+      internalID: -1252869490721608455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_95
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2a3fd065a113b60800000000000000
+      internalID: 7723983792820691656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_96
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55e1c6a1420b0c50800000000000000
+      internalID: 6632397357227042141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_97
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8774236d3743d0cc0800000000000000
+      internalID: -3743278043155511432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_98
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5359db98d01dee0800000000000000
+      internalID: -1238193537307822657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed232c97297fde10800000000000000
+      internalID: 2224629951974551019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25c948e0947bc580800000000000000
+      internalID: -8805816480671611602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff359cef86a1fb0e0800000000000000
+      internalID: -2252052250408430593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_102
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246f1747c7770a4e0800000000000000
+      internalID: -1972445260375001534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_103
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79e49f196a0e9b20800000000000000
+      internalID: 3142961036568881530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_104
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2e6c150326c7880800000000000000
+      internalID: -8611900427769290035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_105
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bfbf346638361f0800000000000000
+      internalID: -1052853412624073958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_106
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd724ad5d685c520800000000000000
+      internalID: 2721729802863279579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_107
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b92242fe5ff7510800000000000000
+      internalID: 1549227204290976627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_108
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6bec02f8e4c30d0800000000000000
+      internalID: -3441789638580193630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_109
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7568574714b39f40800000000000000
+      internalID: 5734124762646996351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_110
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5829e915d9ef66a0800000000000000
+      internalID: -6453682639526614950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_111
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558d806ead0494470800000000000000
+      internalID: 8379299890605906005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_112
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c86bda5b05163e80800000000000000
+      internalID: -8199342933068257084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_113
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06595259ef7687200800000000000000
+      internalID: 178006528402756960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_114
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1056
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab8abdcf63b00c60800000000000000
+      internalID: 7782417448870513570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1056
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320c630ac380e94c0800000000000000
+      internalID: -4278973539476389853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_116
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1056
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf8136b49adb56a0800000000000000
+      internalID: -6459328908286128199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_117
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1056
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db9bc4660aead280800000000000000
+      internalID: -9017637990674228267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_118
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1056
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaddc2f611a465df0800000000000000
+      internalID: -191884495376556626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_119
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1056
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6424ba142c221d470800000000000000
+      internalID: 8417547396252910150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_120
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f5051a1dbe53910800000000000000
+      internalID: 1816617310300954430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cb8aaf289884710800000000000000
+      internalID: 1677742056839625874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54078a05b466cf50800000000000000
+      internalID: 6901314207720342621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264a48b1af4873aa0800000000000000
+      internalID: -6181325753804348318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_124
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5c32151918231b0800000000000000
+      internalID: -5678333719029234181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_125
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e56f652250580f0800000000000000
+      internalID: -1115479687658316239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_126
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e9123d70e63f3c0800000000000000
+      internalID: -4326993837086892416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_127
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d290848add5a4b2f0800000000000000
+      internalID: -957958449293424339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_128
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3d9ad5a6cbede90800000000000000
+      internalID: -6998949605863205948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_129
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e0aca422bb04670800000000000000
+      internalID: 8521016250943016548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_130
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 960
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d459bd2908af9e0e0800000000000000
+      internalID: -2239983909513489075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 960
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b9d1eada1793de0800000000000000
+      internalID: -1352925222283666647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_132
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f032f0ea7755960800000000000000
+      internalID: 7590104336464809882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_133
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 960
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad2c3e6e40ac2740800000000000000
+      internalID: 5128650334385483173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_134
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7928436fd8b57d260800000000000000
+      internalID: 7122262000988881559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f4fb268e3298360800000000000000
+      internalID: 7172303362560315157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_136
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee32ad9eb4511e60800000000000000
+      internalID: 7931213596441329376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_137
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d839096c114698a00800000000000000
+      internalID: 759248039697224589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05028999a76c31030800000000000000
+      internalID: 3464330768243236944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_139
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff538e354e7db250800000000000000
+      internalID: 5962060317575045108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_140
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e542a5c8eba78280800000000000000
+      internalID: -9041068710686472731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 768
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d60e42d8f7d1c7b0800000000000000
+      internalID: -5205642230583392556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_142
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49deeac7cb296a30800000000000000
+      internalID: 4208943463857576269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b7374a2b2e57c30800000000000000
+      internalID: 4356637471441910560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_144
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2427dc0939b65510800000000000000
+      internalID: 1537619977473303597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_145
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2788a44d443b88300800000000000000
+      internalID: 254650487147235442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_146
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b97d0906d6005960800000000000000
+      internalID: 7588572888463931833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b99135e584826030800000000000000
+      internalID: 3486494772148935088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_148
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f016b289f73181390800000000000000
+      internalID: -7847500911958335217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_149
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c334d8b3f2ab6ce0800000000000000
+      internalID: -1410854890588851261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_150
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b000d01ff32829f0800000000000000
+      internalID: -493104580791369552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_151
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c7876ab821c2290800000000000000
+      internalID: -7913930054194136030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_152
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f01ae86cc397a30800000000000000
+      internalID: 4213465749875920760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81625becd187be220800000000000000
+      internalID: 2516236886233916952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_154
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbd55d0b18ec8070800000000000000
+      internalID: 8110112231872912373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0df5cfea2b3e220800000000000000
+      internalID: 2514049481631060211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_156
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5998abd9929932c20800000000000000
+      internalID: 3180554165872658837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_157
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d2bdb963b01e3a0800000000000000
+      internalID: -6638012046596428437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_158
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708b4fcf824b935b0800000000000000
+      internalID: -5388077391036499961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ae0a717d15531a0800000000000000
+      internalID: -6830463275581248984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_160
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee33aa3ab33e07b0800000000000000
+      internalID: -5256206840154079511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_161
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5249396cc7127270800000000000000
+      internalID: 8246680034374926942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_162
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06920406c192d8e0800000000000000
+      internalID: -1670112232144202229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_163
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb89322d2d94a05b0800000000000000
+      internalID: -5401423633259980612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_164
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d6c2d2f7a76f010800000000000000
+      internalID: 1222299035514989953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_165
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaf0ac82c99ee170800000000000000
+      internalID: 8209668231605058250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_166
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec74bc9559825a40800000000000000
+      internalID: 5355493907691240687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_167
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9413767d8d5ffabf0800000000000000
+      internalID: -310759537589669559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_168
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f4da0de80f7bc80800000000000000
+      internalID: -8306906491484549336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_169
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fdff8871c6e3f10800000000000000
+      internalID: 2251355712070344588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_170
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b6f5c02c696dbb0800000000000000
+      internalID: -4911572583425545378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_171
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc278a3d6f1196a0800000000000000
+      internalID: -6444335037796635401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_172
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4d20af0626065e0800000000000000
+      internalID: -1918425272608959270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_173
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d161cec6b6334f000800000000000000
+      internalID: 68736430799328797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_174
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d877efa4a9c499c0800000000000000
+      internalID: -3921287666369857320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_175
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e5e247d0dda9a10800000000000000
+      internalID: 1917087641253076587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_176
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4622c09dea6bc1e60800000000000000
+      internalID: 7934417505601987172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_177
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47a0685b21d872b0800000000000000
+      internalID: -5586485353656572084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_178
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880ee699c3b42c330800000000000000
+      internalID: 3729626165060493448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_179
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8130df5efb7e726c0800000000000000
+      internalID: -4168108118724771048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_180
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3b280172db31b30800000000000000
+      internalID: 4256954048273626020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_181
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859e24231bf473d10800000000000000
+      internalID: 2105238973290047832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_182
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0e7582660091680800000000000000
+      internalID: -8783989159445929779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_183
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83f65d23e1faae90800000000000000
+      internalID: -7013527511655582837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_184
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e13a7eaebe66600800000000000000
+      internalID: 461315405993156241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_185
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56dd99f2d00b0020800000000000000
+      internalID: 2308940140088514139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_186
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da82eae0f3ee24fb0800000000000000
+      internalID: -4664904309405767507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_187
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2fb8d1c036aeb00800000000000000
+      internalID: 858607582653969131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_188
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75f67b19148c2690800000000000000
+      internalID: -7625574825675262595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_189
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d68ca0ac0d5d5950800000000000000
+      internalID: 6439405351026329296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_190
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ce36d4dc392bd50800000000000000
+      internalID: 6751621301357767817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_191
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd5ff5c4b968e1f0800000000000000
+      internalID: -1015445490835169835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_192
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2886b7f5bc15a6d80800000000000000
+      internalID: -8256697032908248958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_193
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a463a6fafc517570800000000000000
+      internalID: 8462647407755355302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_194
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f988dd1ae265c8f10800000000000000
+      internalID: 2273286670199392415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_195
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b6db47b67b02df0800000000000000
+      internalID: -206963910711088241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_196
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f99333bd57df1b0800000000000000
+      internalID: -5621207175570809016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_197
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173e6c6f956d371b0800000000000000
+      internalID: -5659944624793918607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_198
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e398d72ad0be17ed0800000000000000
+      internalID: -2417893081128007362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_199
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f4e8be64320dc90800000000000000
+      internalID: -7147173821130322087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_200
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9949d28bca3caad90800000000000000
+      internalID: -7085635917122268007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_201
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c348be50823a540800000000000000
+      internalID: 5017898415712124017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_202
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7565659ebac74b7d0800000000000000
+      internalID: -2903558781951125929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_203
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc5a22d873420710800000000000000
+      internalID: 1657961799026891993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_204
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e955857db8fdae0800000000000000
+      internalID: -1522344392011702639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_205
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9b2b8d261d40070800000000000000
+      internalID: 8071806654627363303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_206
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b44e761c3211010800000000000000
+      internalID: 1157745892789603207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_207
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8c6021e28b9ec00800000000000000
+      internalID: 930477306039159038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_208
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f7a1f35e8a5acd0800000000000000
+      internalID: -2547444311648469206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_209
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9889ac864518750800000000000000
+      internalID: 6305413762347731445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_210
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a47351043c88940800000000000000
+      internalID: 5298699641602656806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_211
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bf631913dc48350800000000000000
+      internalID: 6018160614847216472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_212
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfb7c92a18ba3630800000000000000
+      internalID: 3907638049206943683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_213
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde4f7166d089ab00800000000000000
+      internalID: 840344463728398044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_214
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ccba4d958705bb0800000000000000
+      internalID: -4949323663264723941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_215
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327abab824d743820800000000000000
+      internalID: 2897078185070667555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_216
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62ccbb1b0dd011f0800000000000000
+      internalID: -1076117271161814418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_217
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d0e18a1d13499d0800000000000000
+      internalID: -2768533094387544702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_218
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a57a1e4c84b8ecf0800000000000000
+      internalID: -222729666856061536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_219
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ab014cf7b9ba6c0800000000000000
+      internalID: -4131037260129715683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_220
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fa627b944201ae0800000000000000
+      internalID: -1580723570183065794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_221
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18473784f5b57e20800000000000000
+      internalID: 3347781959865026587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_222
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0e699bab3d26ea0800000000000000
+      internalID: -5880905364461395758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_223
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c879949b53df40840800000000000000
+      internalID: 5189551077821355916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_224
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747d1c786b4e44f80800000000000000
+      internalID: -8123116355256723641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_225
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f74947b0d387f90800000000000000
+      internalID: -6955742505063907461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_226
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0b2b67377d3fd20800000000000000
+      internalID: 3311227041960079561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_227
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8280aa0ffc0075f10800000000000000
+      internalID: 2258274631245498408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_228
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf1ab55dc92f48b0800000000000000
+      internalID: -5165864285687373874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_229
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b356d9e2ce575a630800000000000000
+      internalID: 3937683106460165435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_230
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be2fda7508309230800000000000000
+      internalID: 3643473694730170032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_231
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96235438def0cb70800000000000000
+      internalID: 8917407466737837723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_232
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7814eac75e501d590800000000000000
+      internalID: -7651327808728317561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_233
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75f1d4745dff92b0800000000000000
+      internalID: -5575459274482387590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_234
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f707bfcfece9390800000000000000
+      internalID: -7809577117868327168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_235
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c20e103e9a336310800000000000000
+      internalID: 1397024760501502656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_236
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c254bc3f6b3da850800000000000000
+      internalID: 6389828795254461126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_237
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3746248bb4f12b0800000000000000
+      internalID: -5611683355920403533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_238
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ba13b6d9dc7ca00800000000000000
+      internalID: 776815536736676633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_239
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c58c3fcd305aae10800000000000000
+      internalID: 2209666793578726848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_240
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffa8057a2d4ac620800000000000000
+      internalID: 2795131363484282873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_241
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e02abb273b12eda0800000000000000
+      internalID: -5917137036640640795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_242
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651bcda20c09c4420800000000000000
+      internalID: 2615624638622642518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_243
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fad5a9db02bc9ab0800000000000000
+      internalID: -4999925722322183439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_244
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165494656fb6354d0800000000000000
+      internalID: -3147053008848075423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_245
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a493fc4968776240800000000000000
+      internalID: 4784925522762372256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clean 1-bit tiles tiles TRANSPARENT_246
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6963c6c0a6b284e30800000000000000
+      internalID: 4487884763149645462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6be8d5a2b234d7344a15014dbd3e6692
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      clean 1-bit tiles tiles TRANSPARENT_0: 596705935926967164
+      clean 1-bit tiles tiles TRANSPARENT_1: 6418977653139267517
+      clean 1-bit tiles tiles TRANSPARENT_10: -561456194701846206
+      clean 1-bit tiles tiles TRANSPARENT_100: -8805816480671611602
+      clean 1-bit tiles tiles TRANSPARENT_101: -2252052250408430593
+      clean 1-bit tiles tiles TRANSPARENT_102: -1972445260375001534
+      clean 1-bit tiles tiles TRANSPARENT_103: 3142961036568881530
+      clean 1-bit tiles tiles TRANSPARENT_104: -8611900427769290035
+      clean 1-bit tiles tiles TRANSPARENT_105: -1052853412624073958
+      clean 1-bit tiles tiles TRANSPARENT_106: 2721729802863279579
+      clean 1-bit tiles tiles TRANSPARENT_107: 1549227204290976627
+      clean 1-bit tiles tiles TRANSPARENT_108: -3441789638580193630
+      clean 1-bit tiles tiles TRANSPARENT_109: 5734124762646996351
+      clean 1-bit tiles tiles TRANSPARENT_11: -8907392455829555013
+      clean 1-bit tiles tiles TRANSPARENT_110: -6453682639526614950
+      clean 1-bit tiles tiles TRANSPARENT_111: 8379299890605906005
+      clean 1-bit tiles tiles TRANSPARENT_112: -8199342933068257084
+      clean 1-bit tiles tiles TRANSPARENT_113: 178006528402756960
+      clean 1-bit tiles tiles TRANSPARENT_114: 7782417448870513570
+      clean 1-bit tiles tiles TRANSPARENT_115: -4278973539476389853
+      clean 1-bit tiles tiles TRANSPARENT_116: -6459328908286128199
+      clean 1-bit tiles tiles TRANSPARENT_117: -9017637990674228267
+      clean 1-bit tiles tiles TRANSPARENT_118: -191884495376556626
+      clean 1-bit tiles tiles TRANSPARENT_119: 8417547396252910150
+      clean 1-bit tiles tiles TRANSPARENT_12: -2292619580642090355
+      clean 1-bit tiles tiles TRANSPARENT_120: 1816617310300954430
+      clean 1-bit tiles tiles TRANSPARENT_121: 1677742056839625874
+      clean 1-bit tiles tiles TRANSPARENT_122: 6901314207720342621
+      clean 1-bit tiles tiles TRANSPARENT_123: -6181325753804348318
+      clean 1-bit tiles tiles TRANSPARENT_124: -5678333719029234181
+      clean 1-bit tiles tiles TRANSPARENT_125: -1115479687658316239
+      clean 1-bit tiles tiles TRANSPARENT_126: -4326993837086892416
+      clean 1-bit tiles tiles TRANSPARENT_127: -957958449293424339
+      clean 1-bit tiles tiles TRANSPARENT_128: -6998949605863205948
+      clean 1-bit tiles tiles TRANSPARENT_129: 8521016250943016548
+      clean 1-bit tiles tiles TRANSPARENT_13: 759188779401420412
+      clean 1-bit tiles tiles TRANSPARENT_130: -2239983909513489075
+      clean 1-bit tiles tiles TRANSPARENT_131: -1352925222283666647
+      clean 1-bit tiles tiles TRANSPARENT_132: 7590104336464809882
+      clean 1-bit tiles tiles TRANSPARENT_133: 5128650334385483173
+      clean 1-bit tiles tiles TRANSPARENT_134: 7122262000988881559
+      clean 1-bit tiles tiles TRANSPARENT_135: 7172303362560315157
+      clean 1-bit tiles tiles TRANSPARENT_136: 7931213596441329376
+      clean 1-bit tiles tiles TRANSPARENT_137: 759248039697224589
+      clean 1-bit tiles tiles TRANSPARENT_138: 3464330768243236944
+      clean 1-bit tiles tiles TRANSPARENT_139: 5962060317575045108
+      clean 1-bit tiles tiles TRANSPARENT_14: 3022467282150285100
+      clean 1-bit tiles tiles TRANSPARENT_140: -9041068710686472731
+      clean 1-bit tiles tiles TRANSPARENT_141: -5205642230583392556
+      clean 1-bit tiles tiles TRANSPARENT_142: 4208943463857576269
+      clean 1-bit tiles tiles TRANSPARENT_143: 4356637471441910560
+      clean 1-bit tiles tiles TRANSPARENT_144: 1537619977473303597
+      clean 1-bit tiles tiles TRANSPARENT_145: 254650487147235442
+      clean 1-bit tiles tiles TRANSPARENT_146: 7588572888463931833
+      clean 1-bit tiles tiles TRANSPARENT_147: 3486494772148935088
+      clean 1-bit tiles tiles TRANSPARENT_148: -7847500911958335217
+      clean 1-bit tiles tiles TRANSPARENT_149: -1410854890588851261
+      clean 1-bit tiles tiles TRANSPARENT_15: 4975835270077122734
+      clean 1-bit tiles tiles TRANSPARENT_150: -493104580791369552
+      clean 1-bit tiles tiles TRANSPARENT_151: -7913930054194136030
+      clean 1-bit tiles tiles TRANSPARENT_152: 4213465749875920760
+      clean 1-bit tiles tiles TRANSPARENT_153: 2516236886233916952
+      clean 1-bit tiles tiles TRANSPARENT_154: 8110112231872912373
+      clean 1-bit tiles tiles TRANSPARENT_155: 2514049481631060211
+      clean 1-bit tiles tiles TRANSPARENT_156: 3180554165872658837
+      clean 1-bit tiles tiles TRANSPARENT_157: -6638012046596428437
+      clean 1-bit tiles tiles TRANSPARENT_158: -5388077391036499961
+      clean 1-bit tiles tiles TRANSPARENT_159: -6830463275581248984
+      clean 1-bit tiles tiles TRANSPARENT_16: -7042273767032634390
+      clean 1-bit tiles tiles TRANSPARENT_160: -5256206840154079511
+      clean 1-bit tiles tiles TRANSPARENT_161: 8246680034374926942
+      clean 1-bit tiles tiles TRANSPARENT_162: -1670112232144202229
+      clean 1-bit tiles tiles TRANSPARENT_163: -5401423633259980612
+      clean 1-bit tiles tiles TRANSPARENT_164: 1222299035514989953
+      clean 1-bit tiles tiles TRANSPARENT_165: 8209668231605058250
+      clean 1-bit tiles tiles TRANSPARENT_166: 5355493907691240687
+      clean 1-bit tiles tiles TRANSPARENT_167: -310759537589669559
+      clean 1-bit tiles tiles TRANSPARENT_168: -8306906491484549336
+      clean 1-bit tiles tiles TRANSPARENT_169: 2251355712070344588
+      clean 1-bit tiles tiles TRANSPARENT_17: 2541180059753782629
+      clean 1-bit tiles tiles TRANSPARENT_170: -4911572583425545378
+      clean 1-bit tiles tiles TRANSPARENT_171: -6444335037796635401
+      clean 1-bit tiles tiles TRANSPARENT_172: -1918425272608959270
+      clean 1-bit tiles tiles TRANSPARENT_173: 68736430799328797
+      clean 1-bit tiles tiles TRANSPARENT_174: -3921287666369857320
+      clean 1-bit tiles tiles TRANSPARENT_175: 1917087641253076587
+      clean 1-bit tiles tiles TRANSPARENT_176: 7934417505601987172
+      clean 1-bit tiles tiles TRANSPARENT_177: -5586485353656572084
+      clean 1-bit tiles tiles TRANSPARENT_178: 3729626165060493448
+      clean 1-bit tiles tiles TRANSPARENT_179: -4168108118724771048
+      clean 1-bit tiles tiles TRANSPARENT_18: 7284724760945964904
+      clean 1-bit tiles tiles TRANSPARENT_180: 4256954048273626020
+      clean 1-bit tiles tiles TRANSPARENT_181: 2105238973290047832
+      clean 1-bit tiles tiles TRANSPARENT_182: -8783989159445929779
+      clean 1-bit tiles tiles TRANSPARENT_183: -7013527511655582837
+      clean 1-bit tiles tiles TRANSPARENT_184: 461315405993156241
+      clean 1-bit tiles tiles TRANSPARENT_185: 2308940140088514139
+      clean 1-bit tiles tiles TRANSPARENT_186: -4664904309405767507
+      clean 1-bit tiles tiles TRANSPARENT_187: 858607582653969131
+      clean 1-bit tiles tiles TRANSPARENT_188: -7625574825675262595
+      clean 1-bit tiles tiles TRANSPARENT_189: 6439405351026329296
+      clean 1-bit tiles tiles TRANSPARENT_19: -2992243626618113918
+      clean 1-bit tiles tiles TRANSPARENT_190: 6751621301357767817
+      clean 1-bit tiles tiles TRANSPARENT_191: -1015445490835169835
+      clean 1-bit tiles tiles TRANSPARENT_192: -8256697032908248958
+      clean 1-bit tiles tiles TRANSPARENT_193: 8462647407755355302
+      clean 1-bit tiles tiles TRANSPARENT_194: 2273286670199392415
+      clean 1-bit tiles tiles TRANSPARENT_195: -206963910711088241
+      clean 1-bit tiles tiles TRANSPARENT_196: -5621207175570809016
+      clean 1-bit tiles tiles TRANSPARENT_197: -5659944624793918607
+      clean 1-bit tiles tiles TRANSPARENT_198: -2417893081128007362
+      clean 1-bit tiles tiles TRANSPARENT_199: -7147173821130322087
+      clean 1-bit tiles tiles TRANSPARENT_2: -8051301389285401707
+      clean 1-bit tiles tiles TRANSPARENT_20: -1964188380520436957
+      clean 1-bit tiles tiles TRANSPARENT_200: -7085635917122268007
+      clean 1-bit tiles tiles TRANSPARENT_201: 5017898415712124017
+      clean 1-bit tiles tiles TRANSPARENT_202: -2903558781951125929
+      clean 1-bit tiles tiles TRANSPARENT_203: 1657961799026891993
+      clean 1-bit tiles tiles TRANSPARENT_204: -1522344392011702639
+      clean 1-bit tiles tiles TRANSPARENT_205: 8071806654627363303
+      clean 1-bit tiles tiles TRANSPARENT_206: 1157745892789603207
+      clean 1-bit tiles tiles TRANSPARENT_207: 930477306039159038
+      clean 1-bit tiles tiles TRANSPARENT_208: -2547444311648469206
+      clean 1-bit tiles tiles TRANSPARENT_209: 6305413762347731445
+      clean 1-bit tiles tiles TRANSPARENT_21: 3707727577492604269
+      clean 1-bit tiles tiles TRANSPARENT_210: 5298699641602656806
+      clean 1-bit tiles tiles TRANSPARENT_211: 6018160614847216472
+      clean 1-bit tiles tiles TRANSPARENT_212: 3907638049206943683
+      clean 1-bit tiles tiles TRANSPARENT_213: 840344463728398044
+      clean 1-bit tiles tiles TRANSPARENT_214: -4949323663264723941
+      clean 1-bit tiles tiles TRANSPARENT_215: 2897078185070667555
+      clean 1-bit tiles tiles TRANSPARENT_216: -1076117271161814418
+      clean 1-bit tiles tiles TRANSPARENT_217: -2768533094387544702
+      clean 1-bit tiles tiles TRANSPARENT_218: -222729666856061536
+      clean 1-bit tiles tiles TRANSPARENT_219: -4131037260129715683
+      clean 1-bit tiles tiles TRANSPARENT_22: -3821205667336899502
+      clean 1-bit tiles tiles TRANSPARENT_220: -1580723570183065794
+      clean 1-bit tiles tiles TRANSPARENT_221: 3347781959865026587
+      clean 1-bit tiles tiles TRANSPARENT_222: -5880905364461395758
+      clean 1-bit tiles tiles TRANSPARENT_223: 5189551077821355916
+      clean 1-bit tiles tiles TRANSPARENT_224: -8123116355256723641
+      clean 1-bit tiles tiles TRANSPARENT_225: -6955742505063907461
+      clean 1-bit tiles tiles TRANSPARENT_226: 3311227041960079561
+      clean 1-bit tiles tiles TRANSPARENT_227: 2258274631245498408
+      clean 1-bit tiles tiles TRANSPARENT_228: -5165864285687373874
+      clean 1-bit tiles tiles TRANSPARENT_229: 3937683106460165435
+      clean 1-bit tiles tiles TRANSPARENT_23: -8624934933929165502
+      clean 1-bit tiles tiles TRANSPARENT_230: 3643473694730170032
+      clean 1-bit tiles tiles TRANSPARENT_231: 8917407466737837723
+      clean 1-bit tiles tiles TRANSPARENT_232: -7651327808728317561
+      clean 1-bit tiles tiles TRANSPARENT_233: -5575459274482387590
+      clean 1-bit tiles tiles TRANSPARENT_234: -7809577117868327168
+      clean 1-bit tiles tiles TRANSPARENT_235: 1397024760501502656
+      clean 1-bit tiles tiles TRANSPARENT_236: 6389828795254461126
+      clean 1-bit tiles tiles TRANSPARENT_237: -5611683355920403533
+      clean 1-bit tiles tiles TRANSPARENT_238: 776815536736676633
+      clean 1-bit tiles tiles TRANSPARENT_239: 2209666793578726848
+      clean 1-bit tiles tiles TRANSPARENT_24: 1568524878172860499
+      clean 1-bit tiles tiles TRANSPARENT_240: 2795131363484282873
+      clean 1-bit tiles tiles TRANSPARENT_241: -5917137036640640795
+      clean 1-bit tiles tiles TRANSPARENT_242: 2615624638622642518
+      clean 1-bit tiles tiles TRANSPARENT_243: -4999925722322183439
+      clean 1-bit tiles tiles TRANSPARENT_244: -3147053008848075423
+      clean 1-bit tiles tiles TRANSPARENT_245: 4784925522762372256
+      clean 1-bit tiles tiles TRANSPARENT_246: 4487884763149645462
+      clean 1-bit tiles tiles TRANSPARENT_25: -4277898699165904919
+      clean 1-bit tiles tiles TRANSPARENT_26: -6634250186504311337
+      clean 1-bit tiles tiles TRANSPARENT_27: -3297314340394522846
+      clean 1-bit tiles tiles TRANSPARENT_28: -3306778788515775514
+      clean 1-bit tiles tiles TRANSPARENT_29: 8612253957744146329
+      clean 1-bit tiles tiles TRANSPARENT_3: 5097961044486761205
+      clean 1-bit tiles tiles TRANSPARENT_30: 8880338454678324158
+      clean 1-bit tiles tiles TRANSPARENT_31: -35787731370152805
+      clean 1-bit tiles tiles TRANSPARENT_32: 4119567133297782255
+      clean 1-bit tiles tiles TRANSPARENT_33: -6768400930931022936
+      clean 1-bit tiles tiles TRANSPARENT_34: 7086450628082281835
+      clean 1-bit tiles tiles TRANSPARENT_35: 9178975865694657533
+      clean 1-bit tiles tiles TRANSPARENT_36: 8564055633194570760
+      clean 1-bit tiles tiles TRANSPARENT_37: 116819162982064067
+      clean 1-bit tiles tiles TRANSPARENT_38: -7564746720483798510
+      clean 1-bit tiles tiles TRANSPARENT_39: -6097112480229533311
+      clean 1-bit tiles tiles TRANSPARENT_4: 8854920517303744877
+      clean 1-bit tiles tiles TRANSPARENT_40: -7235200423250850093
+      clean 1-bit tiles tiles TRANSPARENT_41: 2748548010859444228
+      clean 1-bit tiles tiles TRANSPARENT_42: -5164331566888677440
+      clean 1-bit tiles tiles TRANSPARENT_43: 8225528571795269877
+      clean 1-bit tiles tiles TRANSPARENT_44: 7966984287883364066
+      clean 1-bit tiles tiles TRANSPARENT_45: 5836097071468915664
+      clean 1-bit tiles tiles TRANSPARENT_46: 9038437618698572469
+      clean 1-bit tiles tiles TRANSPARENT_47: -5830319003229670812
+      clean 1-bit tiles tiles TRANSPARENT_48: 8719622777701171847
+      clean 1-bit tiles tiles TRANSPARENT_49: -3070362291395373095
+      clean 1-bit tiles tiles TRANSPARENT_5: -1616167585030415891
+      clean 1-bit tiles tiles TRANSPARENT_50: -6558368139376934640
+      clean 1-bit tiles tiles TRANSPARENT_51: 1634674642134505590
+      clean 1-bit tiles tiles TRANSPARENT_52: 366043688080453260
+      clean 1-bit tiles tiles TRANSPARENT_53: -7501075377136670998
+      clean 1-bit tiles tiles TRANSPARENT_54: 4685979621632607100
+      clean 1-bit tiles tiles TRANSPARENT_55: -3083083010700455236
+      clean 1-bit tiles tiles TRANSPARENT_56: 3881648085956944831
+      clean 1-bit tiles tiles TRANSPARENT_57: 2796876100970836029
+      clean 1-bit tiles tiles TRANSPARENT_58: 69819167684710127
+      clean 1-bit tiles tiles TRANSPARENT_59: 326424224988070114
+      clean 1-bit tiles tiles TRANSPARENT_6: -5992712567792671839
+      clean 1-bit tiles tiles TRANSPARENT_60: 7954181295009778886
+      clean 1-bit tiles tiles TRANSPARENT_61: -2019562183880271606
+      clean 1-bit tiles tiles TRANSPARENT_62: 5170223819940196674
+      clean 1-bit tiles tiles TRANSPARENT_63: 1764978177785299656
+      clean 1-bit tiles tiles TRANSPARENT_64: -1087397024205243421
+      clean 1-bit tiles tiles TRANSPARENT_65: -5393499099839245308
+      clean 1-bit tiles tiles TRANSPARENT_66: -6639647193391821320
+      clean 1-bit tiles tiles TRANSPARENT_67: -7028969422555073068
+      clean 1-bit tiles tiles TRANSPARENT_68: -5201988736692649666
+      clean 1-bit tiles tiles TRANSPARENT_69: -668884577109640916
+      clean 1-bit tiles tiles TRANSPARENT_7: 7791047219760981666
+      clean 1-bit tiles tiles TRANSPARENT_70: -4582865539287496630
+      clean 1-bit tiles tiles TRANSPARENT_71: -8186431639006561210
+      clean 1-bit tiles tiles TRANSPARENT_72: 6184299636568372017
+      clean 1-bit tiles tiles TRANSPARENT_73: 8794665241686062062
+      clean 1-bit tiles tiles TRANSPARENT_74: -395394906941995563
+      clean 1-bit tiles tiles TRANSPARENT_75: -815631526072138494
+      clean 1-bit tiles tiles TRANSPARENT_76: 7361886429681665770
+      clean 1-bit tiles tiles TRANSPARENT_77: 4126045123287380395
+      clean 1-bit tiles tiles TRANSPARENT_78: 4815243256437588830
+      clean 1-bit tiles tiles TRANSPARENT_79: 6853334297064626802
+      clean 1-bit tiles tiles TRANSPARENT_8: 8347512470515400969
+      clean 1-bit tiles tiles TRANSPARENT_80: -4843645858462091482
+      clean 1-bit tiles tiles TRANSPARENT_81: -5995440375808852681
+      clean 1-bit tiles tiles TRANSPARENT_82: -2009150077800608564
+      clean 1-bit tiles tiles TRANSPARENT_83: 4569089344377753121
+      clean 1-bit tiles tiles TRANSPARENT_84: -234954356454227593
+      clean 1-bit tiles tiles TRANSPARENT_85: 6702376331214845345
+      clean 1-bit tiles tiles TRANSPARENT_86: 9123060514672328088
+      clean 1-bit tiles tiles TRANSPARENT_87: 1507319451040160366
+      clean 1-bit tiles tiles TRANSPARENT_88: -8915133411331364855
+      clean 1-bit tiles tiles TRANSPARENT_89: 9160896747121179526
+      clean 1-bit tiles tiles TRANSPARENT_9: 5081908653047135602
+      clean 1-bit tiles tiles TRANSPARENT_90: -5943013452789225383
+      clean 1-bit tiles tiles TRANSPARENT_91: 9123446387037403562
+      clean 1-bit tiles tiles TRANSPARENT_92: 8517456614048167158
+      clean 1-bit tiles tiles TRANSPARENT_93: 5120475766746156691
+      clean 1-bit tiles tiles TRANSPARENT_94: -1252869490721608455
+      clean 1-bit tiles tiles TRANSPARENT_95: 7723983792820691656
+      clean 1-bit tiles tiles TRANSPARENT_96: 6632397357227042141
+      clean 1-bit tiles tiles TRANSPARENT_97: -3743278043155511432
+      clean 1-bit tiles tiles TRANSPARENT_98: -1238193537307822657
+      clean 1-bit tiles tiles TRANSPARENT_99: 2224629951974551019
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
