@@ -12,5 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 470680b5e6423a74da9f721729ddb167, type: 3}
   m_Name: Gravity
   m_EditorClassIdentifier: 
-  ramCost: 64
+  processName: Gravity.exe
+  ramCost: 128
   isDefaultOn: 1
+  requiresGrounded: 1

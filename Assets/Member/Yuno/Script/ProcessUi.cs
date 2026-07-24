@@ -1,62 +1,109 @@
 using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
-public class ProcessUI : MonoBehaviour
+public class ProcessUI : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
     [Header("UI Elements")]
     [SerializeField] private TextMeshProUGUI nameText;
     [SerializeField] private TextMeshProUGUI costText;
-    [SerializeField] private TextMeshProUGUI stateText;
+    
+    [Header("Indicator")]
+    [SerializeField] private Image statusLight;
+    [SerializeField] private Color onColor = Color.green;
+    [SerializeField] private Color offColor = Color.gray;
+
+    [Header("Button Settings")]
     [SerializeField] private Button toggleButton;
-    [SerializeField] private TextMeshProUGUI buttonText;
+    [SerializeField] private Button toggleButton2;
+    [SerializeField] private Image playImage;   // 프로세스가 꺼졌을 때 보일 실행(▶) Image
+    [SerializeField] private Image pauseImage;  // 프로세스가 켜졌을 때 보일 중지(■) Image
+
+    [Header("Dimming Overlay")]
+    [Tooltip("전체 항목을 덮는 반투명 회색 이미지 (회색빛 틴트 효과)")]
+    [SerializeField] private Image dimmedOverlay;
+
+    [SerializeField] private GameObject highlight;
 
     private ProcessData _processData;
 
-    public void Setup(ProcessData processData)
+    public void Setup(ProcessData processData) //[cite: 3]
     {
-        _processData = processData;
+        _processData = processData; //[cite: 3]
         
-        // 기본 텍스트 갱신
-        nameText.text = _processData.processName;
-        costText.text = $"{_processData.ramCost} KB";
+        nameText.text = _processData.processName; //[cite: 3]
+        costText.text = $"{_processData.ramCost}KB"; //[cite: 3]
 
-        // 버튼 클릭 및 상태 변화 이벤트 연결
-        toggleButton.onClick.AddListener(OnButtonClicked);
-        _processData.OnStateChanged += UpdateStateUI;
+        toggleButton.onClick.AddListener(OnButtonClicked); //[cite: 3]
+        toggleButton2.onClick.AddListener(OnButtonClicked);
+        _processData.OnStateChanged += UpdateStateUI; //[cite: 3]
+        highlight.SetActive(false);
 
-        // 초기 UI 렌더링
-        UpdateStateUI(_processData.IsActive);
+        UpdateStateUI(_processData.IsActive); //[cite: 3]
     }
 
     private void UpdateStateUI(bool isActive)
     {
         if (isActive)
         {
-            stateText.text = "Run";
-            stateText.color = Color.green;
-            buttonText.text = "Pause";
+            // [실행 중 상태]
+            statusLight.color = onColor;
+            
+            // 켜졌을 때는 Pause 아이콘만 보이게 세팅
+            if (playImage != null) playImage.gameObject.SetActive(false);
+            if (pauseImage != null) pauseImage.gameObject.SetActive(true);
+
+            // 전체 회색빛 해제 (꺼짐)
+            if (dimmedOverlay != null) dimmedOverlay.gameObject.SetActive(false);
         }
         else
         {
-            stateText.text = "Pause";
-            stateText.color = Color.gray;
-            buttonText.text = "Run";
+            // [중지됨 상태]
+            statusLight.color = offColor;
+            
+            // 꺼졌을 때는 Play 아이콘만 보이게 세팅
+            if (playImage != null) playImage.gameObject.SetActive(true);
+            if (pauseImage != null) pauseImage.gameObject.SetActive(false);
+
+            // 전체 회색빛 적용 (켜짐)
+            if (dimmedOverlay != null) dimmedOverlay.gameObject.SetActive(true);
+
         }
     }
 
     private void OnButtonClicked()
     {
-        // 켜거나 끄는 로직은 매니저에게 위임합니다.
         MemoryManager.Instance.RequestToggleProcess(_processData);
     }
 
-    private void OnDestroy()
+    private void OnDestroy() //[cite: 3]
+    {
+        if (_processData != null) //[cite: 3]
+        {
+            _processData.OnStateChanged -= UpdateStateUI; //[cite: 3]
+            _processData.SetHoverState(false); // 혹시 파괴될 때 호버가 켜져있을 경우를 대비한 안전장치
+        }
+        toggleButton.onClick.RemoveListener(OnButtonClicked); //[cite: 3]
+        toggleButton2.onClick.RemoveListener(OnButtonClicked);
+        
+    }
+
+    public void OnPointerEnter(PointerEventData eventData)
     {
         if (_processData != null)
         {
-            _processData.OnStateChanged -= UpdateStateUI;
+            _processData.SetHoverState(true);
+            highlight.SetActive(true);
         }
-        toggleButton.onClick.RemoveListener(OnButtonClicked);
+    }
+
+    public void OnPointerExit(PointerEventData eventData)
+    {
+        if (_processData != null)
+        {
+            _processData.SetHoverState(false);
+            highlight.SetActive(false);
+        }
     }
 }
