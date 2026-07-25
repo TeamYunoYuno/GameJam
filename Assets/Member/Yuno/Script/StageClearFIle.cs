@@ -46,6 +46,9 @@ public class StageClearFile : MonoBehaviour
         int targetBars = (int)((float)freeRAM / requiredFreeRAM * totalBars);
         if (targetBars > totalBars) targetBars = totalBars;
 
+        // 💡 검사 진행 시작: Check 효과음 루프 재생
+        SoundManager.instance?.PlayLoopSFX("Check");
+
         string currentBars = "";
         for (int i = 0; i < totalBars; i++)
         {
@@ -56,22 +59,36 @@ public class StageClearFile : MonoBehaviour
             }
 
             currentBars += "#";
-            // UpdateLastLine을 써서 줄이 넘어가지 않고 게이지가 차오르게 함
             ConsoleManager.Instance.UpdateLastLine(progressBase + currentBars + "]", "#FFFFFF");
             await UniTask.Delay(50);
         }
 
         await UniTask.Delay(400);
 
+        // 💡 게이지 채우기 종료: Check 효과음 중지
+        SoundManager.instance?.StopLoopSFX();
+
         // 3. 성공 / 실패 판정
         if (freeRAM >= requiredFreeRAM)
         {
             // ⭕ 성공
+            SoundManager.instance?.PlaySFX("Clear"); // 💡 Clear 효과음 재생
+
             ConsoleManager.Instance.LogSuccess("[OK] Memory allocation and extraction complete.");
             ConsoleManager.Instance.LogSystem("Transferring system control to next stage...");
-            await UniTask.Delay(1500);
             
-            SceneManager.LoadScene(nextSceneName);
+            await UniTask.Delay(800);
+
+            // 🎬 4. UI 전환 연출 실행 후 씬 전환
+            if (StageTransitionUI.Instance != null)
+            {
+                await StageTransitionUI.Instance.PlayStageClearTransitionAsync(nextSceneName);
+            }
+            else
+            {
+                // UI가 없을 때의 예비 동작
+                SceneManager.LoadScene(nextSceneName);
+            }
         }
         else
         {
@@ -103,7 +120,6 @@ public class StageClearFile : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        // 튕겨나온 후 콜라이더 밖으로 나가면 완전히 리셋
         if (collision.CompareTag("Player") && !PlayerMovement2D.Instance.enabled)
         {
             isTriggered = false;

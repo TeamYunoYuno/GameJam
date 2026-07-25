@@ -54,6 +54,7 @@ public class PlayerMovement2D : AbstractGimmick
 
     void Start()
     {
+        SoundManager.instance.PlaySFX("restart");
         if (movementParticle != null)
         {
             var emission = movementParticle.emission;
@@ -90,8 +91,8 @@ public class PlayerMovement2D : AbstractGimmick
         // 1. 바닥 및 천장 감지
         CheckGroundAndCeiling();
 
-        // 바닥 착지 시에만 점프 코요테 타임 갱신
-        if (isGrounded)
+        // 💡 수정된 부분: y축 속도가 0.5 이하일 때(즉, 점프해서 위로 상승 중이 아닐 때)만 착지로 인정!
+        if (isGrounded && rb.linearVelocity.y <= 0.5f)
         {
             coyoteTimeCounter = coyoteTime;
         }
@@ -116,6 +117,7 @@ public class PlayerMovement2D : AbstractGimmick
         if (!isGravityInverted && Input.GetButtonDown("Jump"))
         {
             jumpBufferCounter = jumpBufferTime;
+            SoundManager.instance.PlaySFX("Jump");
         }
         else
         {

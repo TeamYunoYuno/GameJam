@@ -42,7 +42,12 @@ public class UIManager : MonoBehaviour
 
     public async UniTaskVoid ShowWarningGlitchAsync() //[cite: 8]
     {
+        SoundManager.instance.PlaySFX("Error");
         warningPanel.SetActive(true); //[cite: 8]
+        await UniTask.Delay(System.TimeSpan.FromSeconds(0.2)); //[cite: 8]
+        warningPanel.SetActive(false); //[cite: 8]
+        await UniTask.Delay(System.TimeSpan.FromSeconds(0.2));
+        warningPanel.SetActive(true);
         await UniTask.Delay(System.TimeSpan.FromSeconds(0.2)); //[cite: 8]
         warningPanel.SetActive(false); //[cite: 8]
     }
